@@ -1,0 +1,20 @@
+@font-face {
+	font-family: p-b;
+	src: url(Poppins-Bold.ttf);
+}
+@font-face {
+	font-family: p-l;
+	src: url(Poppins-Light.ttf);
+}
+@font-face {
+	font-family: p-m;
+	src: url(Poppins-Medium.ttf);
+}
+@font-face {
+	font-family: p-r;
+	src: url(Poppins-Regular.ttf);
+}
+@font-face {
+	font-family: pfd-r;
+	src: url(PlayfairDisplay-Regular.ttf);
+}
